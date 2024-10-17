@@ -1,8 +1,6 @@
 # "HTML Project for Beginners"
 
-**The Result:** https://mwgunt.github.io/HTMLProject/index.html
-
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+**The Result:** https://dazzletune.github.io/HTMLProject/index.html
 
 This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
 
@@ -24,4 +22,4 @@ This repository shares the starter code for the [YouTube Tutorial](https://youtu
 
 ### Academic Honesty
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
